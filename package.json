@@ -7,7 +7,7 @@
   "private": true,
   "main": "index.js",
   "publishConfig": {
-    "@TF484:registry": "https://npm.pkg.github.com"
+    "@tfetecua:registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "start": "node index.js"
