@@ -8,5 +8,9 @@
   "main": "index.js",
   "publishConfig": {
     "@TF484:registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
   }
 }
