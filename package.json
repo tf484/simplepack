@@ -4,7 +4,7 @@
   "description": "A simple CAP project.",
   "repository": "<Add your repository here>",
   "license": "UNLICENSED",
-  "private": true,
+  "private": false,
   "main": "index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/tfetecua"
