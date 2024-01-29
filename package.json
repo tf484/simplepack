@@ -5,5 +5,8 @@
   "repository": "<Add your repository here>",
   "license": "UNLICENSED",
   "private": true,
-  "main": "index.js"
+  "main": "index.js",
+  "publishConfig": {
+    "@TF484:registry": "https://npm.pkg.github.com"
+  }
 }
